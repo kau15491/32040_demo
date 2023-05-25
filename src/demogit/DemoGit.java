@@ -17,6 +17,12 @@ public class DemoGit {
     public static void main(String[] args) {
         System.out.println("Hello Welcome to Git.");
         System.out.println("This course will provide some demo on Git");
+        
+        int a = 2;
+        int b = 3;
+        int c;
+        c = a+b;
+        System.out.print(c);
     }
 
 }
