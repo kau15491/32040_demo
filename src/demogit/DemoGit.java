@@ -23,6 +23,8 @@ public class DemoGit {
         int c;
         c = a+b;
         System.out.print(c);
+        int d = a+b+c;
+        System.out.print(d);
     }
 
 }
