@@ -16,6 +16,7 @@ public class DemoGit {
      */
     public static void main(String[] args) {
         System.out.println("Hello Welcome to Git.");
+        System.out.println("This course will provide some demo on Git");
     }
 
 }
